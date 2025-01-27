@@ -5,3 +5,4 @@ function revese_string(reverseMe){
     }
     return reversed;
 }
+console.log(revese_string("Julia"));
